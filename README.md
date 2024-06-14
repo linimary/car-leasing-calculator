@@ -47,10 +47,11 @@ This project is a responsive and user-friendly web-based calculator designed to 
 
 ### Screenshots
 
-- Desktop
+#### Desktop
+
 ![car-leasing-desktop](https://github.com/linimary/car-leasing-calculator/assets/125043957/cd789331-e192-45d8-b208-c5c08bf0cd7f)
 
-- Mobile
+#### Mobile
 ![car-leasing-mobile](https://github.com/linimary/car-leasing-calculator/assets/125043957/888f29b8-eea2-4406-aed8-a5553ff3da25)
 
 ### Technologies Used
